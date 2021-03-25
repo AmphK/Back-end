@@ -1,4 +1,4 @@
-package com.bezkoder.integrate.spring.react;
+package com.sda.dental.clinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

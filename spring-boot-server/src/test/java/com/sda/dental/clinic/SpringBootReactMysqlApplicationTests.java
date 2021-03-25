@@ -1,4 +1,4 @@
-package com.bezkoder.integrate.spring.react;
+package com.sda.dental.clinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
